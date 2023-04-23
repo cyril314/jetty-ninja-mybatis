@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.test.skip>true</maven.test.skip>
         <java.version>1.8</java.version>
-        <jetty.version>8.1.3.v20120416</jetty.version>
+        <jetty.version>9.3.0.M1</jetty.version>
         <http.version>4.4.1</http.version>
         <ninja.version>6.9.0</ninja.version>
         <shiro.version>1.4.0</shiro.version>
